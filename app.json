@@ -27,7 +27,7 @@
       "supportsTablet": true
     },
     "android": {
-      "packages": "1.1.1",
+      "package": "com.pythonanywhere.nishantsachdeva"
     }
   }
 }
