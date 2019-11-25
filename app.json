@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Remote Control: IIIT Streetlights",
-    "slug": "remote-control-iiit-streetlights",
+    "name": "Sparky",
+    "slug": "Sparky",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -25,6 +25,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "packages": "1.1.1",
     }
   }
 }
